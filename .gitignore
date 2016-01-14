@@ -2,4 +2,9 @@ db.sqlite3
 *.DS_Store
 *.pyc
 *__pycache__
+<<<<<<< 85516720f466d3753f39337d79840b1c956c6ca9
 *.cache
+=======
+*.cache
+*.idea
+>>>>>>> moved git ignore and added requirements.txt for future installs
